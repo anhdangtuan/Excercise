@@ -34,7 +34,7 @@ function App() {
     if (test === true) {
       a > b ? alert("a lon hon b") : alert("b lon hon a");
     } else {
-      const sum = a + b;
+      const sum = a + b; //
     }
   };
   sum();
